@@ -1,0 +1,33 @@
+From james at todotornot.com  Thu Jun 12 06:36:46 2008
+From: james at todotornot.com (James Mills)
+Date: Thu, 12 Jun 2008 14:36:46 +1000
+Subject: [ArgonautSVN-users] Error Installing r18
+Message-ID: <36fc01f10806112136m2868f337q8a2e748c86ffc1ca@mail.gmail.com>
+
+Hi all,
+
+Great project! I hope it is still being
+actively developed and maintained.
+
+I tried to install the latest trunk r18
+and got the following error:
+
+running install_data
+creating /usr/share/argonautsvn
+creating /usr/share/argonautsvn/glade
+copying share/glade/commitdialog.glade -> /usr/share/argonautsvn/glade
+copying share/glade/credentialsdialog.glade -> /usr/share/argonautsvn/glade
+creating /usr/lib/nautilus/extensions-1.0
+creating /usr/lib/nautilus/extensions-1.0/python
+copying nautilus/asvn-contextmenu.py -> /usr/lib/nautilus/extensions-1.0/python
+error: can't copy 'nautilus/asvn-emblems.py': doesn't exist or not a
+regular file
+
+cheers
+James
+
+-- 
+--
+- "Problems are solved by method"
+
+

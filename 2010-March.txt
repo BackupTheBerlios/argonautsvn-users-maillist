@@ -1,0 +1,36 @@
+From cwallace at lodgingcompany.com  Mon Mar  8 21:08:22 2010
+From: cwallace at lodgingcompany.com (C. Chad Wallace)
+Date: Mon, 8 Mar 2010 12:08:22 -0800
+Subject: [ArgonautSVN-users] Project status?
+Message-ID: <20100308120822.353fad27@ws80.int.tlc>
+
+Hello,
+
+I just stumbled upon ArgonautSVN today.  I've been hoping something
+like this would come along, and I was even considering writing it
+myself.  I used to use TortoiseSVN in Windows, but I've been
+Windows-free (at least for development) for over 5 years now...
+TortoiseSVN is the only thing I miss. :-)
+
+However, it looks like this project hasn't seen any activity for about
+3 years.  Is there anything to report?  Or any other project that will
+fill this same void?  I've considered writing something myself, so if I
+ever get over my procrastination, I may try to pick up this project.
+
+TTYL!
+
+-- 
+
+C. Chad Wallace, B.Sc.
+The Lodging Company
+http://www.lodgingcompany.com/
+OpenPGP Public Key ID: 0x262208A0
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 197 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/argonautsvn-users/attachments/20100308/5921a421/attachment.pgp>
+
